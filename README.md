@@ -1,4 +1,3 @@
-- 👋 Hi, My name is Adriel Torres, i'm 21 years;
-- 💞️ I’m looking to collaborate on projects that can help me become better at understanding programming languages; 
-- 📫 How to reach me, is simple, my linkedin is https://www.linkedin.com/in/adriel-torres-9a421a27b/
-
+👋 Olá, meu nome é Adriel Torres, tenho 21 anos;
+💞️ Procuro colaborar em projetos que possam me ajudar a entender melhor linguagens de programação;
+📫 Como entrar em contato comigo é simples, meu LinkedIn é https://www.linkedin.com/in/adriel-torres-9a421a27b/
