@@ -2,7 +2,8 @@
 ### Olá! Eu sou o Adriel 🤖
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adrieltorres_/)
-[![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://twitch.tv/fragabr)
+[![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/adriel-torres-9a421a27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrieeltorres1&show_icons=true&theme=highcontrast)
 
